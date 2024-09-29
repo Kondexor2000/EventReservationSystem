@@ -2,9 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Clone project from Github
+
+git clone https://github.com/Kondexor2000/EventReservationSystem.git
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+## Needed tools
+
+TypeScript
+Redux
+ReduxSaga
 
 ### `npm start`
 
